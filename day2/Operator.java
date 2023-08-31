@@ -39,7 +39,7 @@ public class Operator {
 
         // num 의 값을 10 증가
         // num = num + 10;
-        num += 10
+        num += 10;
         System.out.println(num);
 
         // num의 값을 2배 증가
@@ -57,6 +57,15 @@ public class Operator {
         num = num -1;
         num -= 1;
         num --;
+
+        // 논리연산
+        // 모두 참이면 참, 그외 거짓
+        // 모두 거짓이면 거짓, 그외 참
+
+        // 곱연산(and) - &&
+        // 합연산(or) - ||
+
+
 
 
 
