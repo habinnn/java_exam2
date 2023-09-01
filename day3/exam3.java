@@ -11,13 +11,13 @@ public class exam3 {
             System.out.println("안녕하세요");
         }
     }
-    public static void greeting2( ,num1){
-        for(int i = 0; i < num1; i++){
-            System.out.println(greeting1(),num1);
-        }
-
-
-    }
+//        public static void greeting2(num1){
+//        for(int i = 0; i < num1; i++){
+//            System.out.println(greeting1(),num1);
+//        }
+//
+//
+//    }
     public static void main(String[] args) {
 
         // 매개변수는 인사말 언어를 의미
@@ -35,26 +35,26 @@ public class exam3 {
 
         // 첫번째는 언어, 두번째는 횟수를 의미
 
-        greeting2(1, 3);
-        // 안녕하세요
-        // 안녕하세요
-        // 안녕하세요
-
-        greeting2(2, 5);
-        // 하이~
-        // 하이~
-        // 하이~
-        // 하이~
-        // 하이~
-
-        greeting2(3, 7);
-        // 봉쥬
-        // 봉쥬
-        // 봉쥬
-        // 봉쥬
-        // 봉쥬
-        // 봉쥬
-        // 봉쥬
+//        greeting2(1, 3);
+//        // 안녕하세요
+//        // 안녕하세요
+//        // 안녕하세요
+//
+//        greeting2(2, 5);
+//        // 하이~
+//        // 하이~
+//        // 하이~
+//        // 하이~
+//        // 하이~
+//
+//        greeting2(3, 7);
+//        // 봉쥬
+//        // 봉쥬
+//        // 봉쥬
+//        // 봉쥬
+//        // 봉쥬
+//        // 봉쥬
+//        // 봉쥬
     }
 
 }
