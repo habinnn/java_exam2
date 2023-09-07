@@ -1,4 +1,4 @@
-package day5.reference.reference;
+package day5.reference;
 
 public class ExEx5 {
     public static void main(String[] args) {

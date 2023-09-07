@@ -1,4 +1,4 @@
-package day5.reference.reference;
+package day5.reference;
 public class Reference {
 
     public static void test(String param){

@@ -1,4 +1,4 @@
-package day5.reference.composition;
+package day5.composition;
 
 public class Composition {
     public static void main(String[] args) {

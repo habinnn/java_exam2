@@ -1,4 +1,4 @@
-package day5.reference.casting;
+package day5.casting;
 
 public class ObjectCasting {
     public static void main(String[] args) {
