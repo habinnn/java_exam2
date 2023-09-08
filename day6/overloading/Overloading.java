@@ -1,4 +1,4 @@
-package day6.constructor.overloading;
+package day6.overloading;
 
 public class Overloading {
     public static void main(String[] args) {

@@ -1,9 +1,5 @@
 package day8.Array;
 
-import java.util.ArrayList;
-
-
-
 public class Array {
     public static void main(String[] args) {
         Integer[] iarr = new Integer[10]; // 배열은 불편해서 쓰질않음
@@ -36,11 +32,11 @@ public class Array {
 //
 //
 //
-//    // 추가 - add()
-//    // 삭제 - remove()
-//    // 수정 - set()
-//    // 조회 - get()
-//    // 사이즈 -size()
+    // 추가 - add()
+    // 삭제 - remove()
+    // 수정 - set()
+    // 조회 - get()
+    // 사이즈 -size()
 //
 //    a저장소.add(10);
 //}

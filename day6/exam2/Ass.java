@@ -1,4 +1,4 @@
-package day6.constructor.exam2;
+package day6.exam2;
 
 public class Ass {
     public static void main(String[] args) {

@@ -27,7 +27,7 @@ public class HashMapExam {
          map.put(0, "홍길동");
          System.out.println(map.get(0));
 
-         HashMap<String, String> myMap= new HashMap<>();\
+         HashMap<String, String> myMap= new HashMap<>();
 
         myMap.put("이름", "홍길동");
         myMap.put("나이", "20");
@@ -35,7 +35,7 @@ public class HashMapExam {
 
         System.out.println(myMap);
 
-        // put -> t수정
+        // put -> 수정
         myMap.put("이름", "이순신");
         System.out.println(myMap);
         myMap.remove("이름");
