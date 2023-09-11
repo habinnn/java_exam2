@@ -8,10 +8,14 @@ public class Exam2 {
         System.out.println(" ***");
         System.out.println("*****");
 
+        System.out.println("높이를 입력해주세요 : 3");
+
         System.out.println("   *");
         System.out.println("  ***");
         System.out.println(" *****");
         System.out.println("*******");
+
+        System.out.println("높이를 입력해주세요 : 5");
 
         System.out.println("     *");
         System.out.println("    ***");
@@ -20,6 +24,7 @@ public class Exam2 {
         System.out.println(" *********");
         System.out.println("***********");
 
+        System.out.println("높이를 입력해주세요 : 7");
 
 
 
