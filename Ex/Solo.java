@@ -1,16 +1,32 @@
-package Ex;
-
-import java.util.Scanner;
-
-public class Solo {
-    public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        int num = scan.nextInt();
-        String str = scan.next(); // 한 단어 읽기
-        String str2 = scan.nextLine(); // 한 문장 읽기
-        System.out.println("당신이 입력한 값은 : "  + num); // 숫자 하나 읽기
-        System.out.println("당신이 입력한 단어는 : " + str);
-        System.out.println("당신이 입력한 문자는 : " + str2);
-        }
-    }
-
+//package Ex;
+//
+//import day6.exam2.청둥오리;
+//import day6.exam2.흰오리;
+//
+//public class Solo {
+//    public static void main(String[] args) {
+//
+//        오리 a오리 = new 오리();
+//        a오리.날다();
+//        // 출력 : 오리가 날개로 날아갑니다.
+//
+//        청둥오리 a청둥오리 = new 청둥오리();
+//        a청둥오리.날다();
+//        // 출력 : 오리가 날개로 날아갑니다.
+//
+//        흰오리 a흰오리 = new 흰오리();
+//        a흰오리.날다();
+//        // 출력 : 오리가 날개로 날아갑니다.
+//    }
+//}
+//
+//class 오리 {
+//    void 날다() {
+//        System.out.println("오리가 날개로 날아갑니다.!!!");
+//    }
+//}
+//
+//class 청둥오리 {
+//    void
+//}
+//
